@@ -1,4 +1,4 @@
-# Blog Title :link: https://eos21.github.io/eos.github.io 
+# Blog Title :link: https://eos21.github.io
 ### :page_facing_up: [0](https://eos21.github.io/eos.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
